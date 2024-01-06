@@ -15,3 +15,11 @@
 **Thoughts**: basic functionality such as social media links in my contact me footer, but also had some issues with flex-box whilst setting up a grid for project examples
 
 **Link to work** [github repo](https://github.com/george-bacon/george-bacon.github.io)
+
+### Day 2: January 6th, 2024
+
+**Today's Progress**: Quick update as time limited, fixed the flex box issue i was having (flex-box: flex should be flex-box: wrap), updated my contact link to focus at the footer for the time being (social media links) and amended some basic bits like text-transform: lowercase to gramatically correct the actual code.
+
+**Thoughts**: Try and make some time up tomorrow for todays short burst of code. will top up this evening with Codecademy Pro ios app concept practice
+
+**Link to work** [github repo](https://github.com/george-bacon/george-bacon.github.io)
