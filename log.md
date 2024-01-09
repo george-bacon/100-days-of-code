@@ -44,6 +44,16 @@
 
 **Today's Progress:** Limited progress today as data issues on the day job meant time was taken up considerably. Ran through some Codecademy concept practice and played around with ChatGPT , got an idea of how to setup my JS implementations on portfolio in coming days
 
-**Thoughts:** Continue the concept practice, 8 days streak on Codecademy. Continue to brush up on JS.
+**Thoughts:** Continue the concept practice, 8 days streak on Codecademy. Continue to brush up on JS. Begin the delve back into React in the next week..
+
+---
+
+### Day 5: January 9th, 2024
+
+**Today's Progress:** Added first implementation of JS into my portfolio - prepending and appending text to my h2 element to simulate code. Additionally, added some transform CSS to my icons to visually show being hovered over.
+
+**Thoughts:** Getting where I want to be with the portfolio, will look to create a form in coming days and then crack on with JS study.
+
+**Link to work:** [github commit](https://github.com/george-bacon/george-bacon.github.io/commit/ee0ec6799a020658ccafce5fc51cb6636d7913b2)
 
 ---
