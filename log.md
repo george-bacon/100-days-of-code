@@ -60,10 +60,20 @@
 
 ### Day 6: January 10th, 2024
 
-**Todays Progress:** Learnt about classes in JavaScript and used them on Codecademy to  create a couple of mini projects using Media and Schools. Learnt about inheritance and cemented some further knowledge and understand of getters and setters.
+**Today's Progress:** Learnt about classes in JavaScript and used them on Codecademy to  create a couple of mini projects using Media and Schools. Learnt about inheritance and cemented some further knowledge and understanding of getters and setters.
 
 **Thoughts:** Struggling for time when having to travel to London for the day job! Continuing to utilise the Codecademy app to keep knowledge fresh.
 
 **Link to work:** [Codecademy Classes](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-front-end-development/tracks/fecj-22-javascript-syntax-part-iii/modules/wdcp-22-learn-javascript-syntax-classes-fa294161-e761-4fe9-8dd7-6f9ac904b367/lessons/classes)
+
+---
+
+### Day 7: January 11th, 2024
+
+**Today's Progress:** Started learning about modules in JavaScript. Quite brief after doing some more Class work earlier in the day but modules seem to be a bit tricky to get my head around currently.. maybe just tired..
+
+**Thoughts:** Had started to feel like I was making great progress with programming these last few days but struggling to get my head around all the importing/exporting particularly the use of default. Tackle the rest of it with a fresh head tomorrow..
+
+**Link to work:** No repo or commits to share today
 
 ---
