@@ -57,3 +57,13 @@
 **Link to work:** [github commit](https://github.com/george-bacon/george-bacon.github.io/commit/ee0ec6799a020658ccafce5fc51cb6636d7913b2)
 
 ---
+
+### Day 6: January 10th, 2024
+
+**Todays Progress:** Learnt about classes in JavaScript and used them on Codecademy to  create a couple of mini projects using Media and Schools. Learnt about inheritance and cemented some further knowledge and understand of getters and setters.
+
+**Thoughts:** Struggling for time when having to travel to London for the day job! Continuing to utilise the Codecademy app to keep knowledge fresh.
+
+**Link to work:** [Codecademy Classes](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-front-end-development/tracks/fecj-22-javascript-syntax-part-iii/modules/wdcp-22-learn-javascript-syntax-classes-fa294161-e761-4fe9-8dd7-6f9ac904b367/lessons/classes)
+
+---
