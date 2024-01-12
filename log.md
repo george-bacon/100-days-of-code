@@ -77,3 +77,13 @@
 **Link to work:** No repo or commits to share today
 
 ---
+
+### Day 8: January 12, 2024
+
+**Today's Progress:** Continued the Codecademy syllabus and recapped on Class use and learnt about error handling.
+
+**Thoughts:** Error handling is a bit like yesterday's module concept, need to look at these in further detail
+
+**Link to work:** No repo or commits to share today
+
+---
