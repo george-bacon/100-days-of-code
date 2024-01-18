@@ -87,3 +87,13 @@
 **Link to work:** No repo or commits to share today
 
 ---
+
+### Day 9: January 18, 2024
+
+**Today's Progress:** Few days out with social arrangements on so got back into the swing of things today. Loaded up Codecademy's class challenges and got through the first 2 before getting stuck on the 'Shift Cypher'. Carried on to the next challenge which is building a game within the terminal. Learnt about prompts - something that has intrigued me since beginning in JavaScipt: how does the user interact or push their own dynamic input. Tick!
+
+**Thoughts:** Frustrating to be stumped by the shift cypher, will definitely come back to this. Struggling with some of the game concept, pick up and progress tomorrow..
+
+**Link to work:** [git commit](https://github.com/george-bacon/pro_js_projects/commit/33d350d7e927cc42e586a86733d38ae437e9db09)
+
+---
