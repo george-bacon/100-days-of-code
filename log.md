@@ -97,3 +97,13 @@
 **Link to work:** [git commit](https://github.com/george-bacon/pro_js_projects/commit/33d350d7e927cc42e586a86733d38ae437e9db09)
 
 ---
+
+### Day 10: January 19, 2024
+
+**Today's Progress:** Finished off the first iteration of the terminal game. Added feature such as score, out of bounds check, check if hole and obviously check if player found the hat. 
+
+**Thoughts** Keen to progress on with Codecademy's Front End career path. Next up is Testing
+
+**Link to work:** [git commit](https://github.com/george-bacon/pro_js_projects/commit/0d27bf08d04c71ff15169e1e49f7d70b59c039a0)
+
+---
