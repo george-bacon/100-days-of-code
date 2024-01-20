@@ -102,8 +102,18 @@
 
 **Today's Progress:** Finished off the first iteration of the terminal game. Added feature such as score, out of bounds check, check if hole and obviously check if player found the hat. 
 
-**Thoughts** Keen to progress on with Codecademy's Front End career path. Next up is Testing
+**Thoughts:** Keen to progress on with Codecademy's Front End career path. Next up is Testing
 
 **Link to work:** [git commit](https://github.com/george-bacon/pro_js_projects/commit/0d27bf08d04c71ff15169e1e49f7d70b59c039a0)
+
+---
+
+### Day 11: January 20, 2024
+
+**Today's Progress:** Began a dive into testing , focused on TDD (Test Driven Development) and used the 'assert' functionality in node.js to run my own tests against Codecademy's project. Learnt about MochaJS and did some basic programming to help solidify some concepts and pass tests. 
+
+**Thoughts:** Enjoyable module, looking forward to doing more test cases. Opened my eyes to another segment of day to day programming in the real world. Looking forward to doing some of the challenges on the Codecadmey Pro course.
+
+**Link to work:** No repo or commits to share as worked on the interactive codecademy space. Links to [Mocha](https://mochajs.org/) and [Assert in Node.js](https://nodejs.org/api/assert.html)
 
 ---
