@@ -117,3 +117,13 @@
 **Link to work:** No repo or commits to share as worked on the interactive codecademy space. Links to [Mocha](https://mochajs.org/) and [Assert in Node.js](https://nodejs.org/api/assert.html)
 
 ---
+
+### Day 12: January 21, 2024
+
+**Today's Progress:** Continued with the Codecademy Testing unit and finished it off. Created a factorial function that takes a number and returns the factorial. Used TDD methodology to create the program, passed 3 tests where 2 different values were given and then returned an edge case of 0 (which returns 1). Started a module on Asynchronous programming. learnt that JS is a single threaded language but can emulate multi-threaded by using events. 
+
+**Thoughts:** Good module on testing. Found it very helpful and understood why its an important part of programming. Async coding is the next step as this will be really important for making an actual app. Keen to learn about APIs and more.
+
+**Link to work:** No repo or commit to share today.
+
+---
