@@ -127,3 +127,13 @@
 **Link to work:** No repo or commit to share today.
 
 ---
+
+### Day 13: January 22, 2024
+
+**Today's Progress:** Today I continued with the aysnchronous module and went from using new Promise(resolve, reject) to creating functions with async and await syntax. Promises are a tough concept!
+
+**Thoughts:** Feel like I am getting there with concepts. It'll soon be time to start building something. Looking forward to some future opportunitys.
+
+**Link to work:** No repo or commit to share today.
+
+---
