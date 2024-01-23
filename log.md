@@ -137,3 +137,13 @@
 **Link to work:** No repo or commit to share today.
 
 ---
+
+### Day 14: January 23, 2024
+
+**Today's Progress:** Limited progress today, continued with the asynchronous module to complete the path with async await and Promise.all. Tomorrow will be learning about http requests, effectively putting this into practice.
+
+**Thoughts:** Tough concept, feel like this would be easier to learn with real world examples rather than simulating delays. Hopefully the next module explores this further.
+
+**Link to work:** No repo or commit to share today.
+
+---
