@@ -144,6 +144,14 @@
 
 **Thoughts:** Tough concept, feel like this would be easier to learn with real world examples rather than simulating delays. Hopefully the next module explores this further.
 
-**Link to work:** No repo or commit to share today.
+**Link to work:** [async MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 
 ---
+
+### Day 15: January 24, 2024
+
+**Today's Progress:** Continued with the Asynchronous theme and completed a module chapter on JSON objects. Understood how systems GET and POST requests to servers and recieve objects in return detailing various bits of information to the client. Learnt about methods which can then interpret or package to send requests. Also learnt about REST (REpresentational State Transfer) and why that is an important part of building applications, both server and client side. 
+
+**Thoughts:** Very interesting day, somewhat challenging with fetch() requests but got the hang of it towards the end. Much easier to program with the await async syntax than using .then(). JavaScript has come a long way since I last used it 11 years ago..
+
+**Link to work:** [JSON MDN WebDocs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
