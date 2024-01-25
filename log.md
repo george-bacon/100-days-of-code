@@ -155,3 +155,13 @@
 **Thoughts:** Very interesting day, somewhat challenging with fetch() requests but got the hang of it towards the end. Much easier to program with the await async syntax than using .then(). JavaScript has come a long way since I last used it 11 years ago..
 
 **Link to work:** [JSON MDN WebDocs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
+---
+
+### Day 16: January 22, 2024
+
+**Today's Progress:** Limited progress today as caught up with the day job. Reviewed some youtube videos on Functional Componenents within React. Continued with my Codecademy concept practice.
+
+**Thoughts:** Make some time up tomorrow by getting stuck into Web Security.
+
+**Link to work:** [Youtube: React Functional Component](https://www.youtube.com/watch?v=Cla1WwguArA&ab_channel=Codevolution)
