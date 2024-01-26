@@ -165,3 +165,13 @@
 **Thoughts:** Make some time up tomorrow by getting stuck into Web Security.
 
 **Link to work:** [Youtube: React Functional Component](https://www.youtube.com/watch?v=Cla1WwguArA&ab_channel=Codevolution)
+
+---
+
+### Day 17: January 26, 2024
+
+**Today's Progress:** Back into React! Started the Codecademy Intro to React and got up to speed with JSX. Created some basic elements such as h1 tags and updated attributes for eg img tags. Started to create lists using .map() and tomorrow I will create my first mini project using React and JSX. Learnt about virtual DOM and SPA (Single Page Applications) and their pros and cons.
+
+**Thoughts:** I like creating things and I am looking forward to developing some things using React.
+
+**Link to work:** No repo but heres the [React](https://react.dev/) site.
