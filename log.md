@@ -175,3 +175,13 @@
 **Thoughts:** I like creating things and I am looking forward to developing some things using React.
 
 **Link to work:** No repo but heres the [React](https://react.dev/) site.
+
+---
+
+### Day 18: January 27, 2024
+
+**Today's Progress:** Short time available today (stocked a new wine fridge and walked/hosed down a very muddy Golden Retriever!) so logged onto Codecademy Pro and did a quick project on Animal Fun Facts. Created in React, I produced a background image into a main section, added a title (which handled a default entry if blank) and then parsed an animals array into an image array and loaded them onto the screen. I then treated each image as a button that called a function to display a fun fact about the animal that was selected on screen.
+
+**Thoughts:** A challenging piece of work that I used a youtube walkthrough with. Some difficult concepts that were rushed throuogh so didnt feel too confident at the end
+
+**Link to work:** [Video guide to animal funfact project](https://www.youtube.com/watch?v=zMSVe_94Q1w&ab_channel=Codecademy)
