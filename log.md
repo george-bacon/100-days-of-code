@@ -185,3 +185,13 @@
 **Thoughts:** A challenging piece of work that I used a youtube walkthrough with. Some difficult concepts that were rushed throuogh so didnt feel too confident at the end
 
 **Link to work:** [Video guide to animal funfact project](https://www.youtube.com/watch?v=zMSVe_94Q1w&ab_channel=Codecademy)
+
+---
+
+### Day 19: January 28, 2024
+
+**Today's Progress:** Continued progress within React. Started adding JS functionality to my components before returning them. Continued using / creating helper functions to run additional bits of code. Also did some array map challenges and managed to pass.
+
+**Thoughts:** Struggling to render multiple components in one App component (such as the quote and button elements in one return). Next step in React is a mini project which creates an authorisation form. This will involved multiple components so should begin to make more sense in coming days
+
+**Link to work:** No repo or commit to share today.
