@@ -195,3 +195,13 @@
 **Thoughts:** Struggling to render multiple components in one App component (such as the quote and button elements in one return). Next step in React is a mini project which creates an authorisation form. This will involved multiple components so should begin to make more sense in coming days
 
 **Link to work:** No repo or commit to share today.
+
+---
+
+### Day 20: January 29, 2024
+
+**Today's Progress:** Today I continued through the Codecademy React modules; completing part 1 and moving on nicely into part 2. Today we covered modular component creation which included import and exporting, use of props and multiple component rendering. Tomorrow I start looking at Hooks and how those work, a key part of React's functionality.
+
+**Thoughts:** A little frustrating how many syntax issues I'm coming across but just shows how important it is to be entirely accurate. I like building and exporting my app so I can see how it builds in real time. Installed and ran my first create-react-app via npm / node. Excited to start using useStates / hooks ahead of this weekends day of shadowing. I will be keen to get stuck in to some code alongs on Youtube now that I feel I am getting a good understanding of the entire picture. I feel I have come quite a long way since Aug last year!
+
+**Link to work:** No work to share but lots of tools used today including [React Dev Tools](https://react.dev/learn/react-developer-tools) and [create-react-app](https://react.dev/learn/start-a-new-react-project#nextjs)
