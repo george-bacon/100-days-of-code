@@ -205,3 +205,13 @@
 **Thoughts:** A little frustrating how many syntax issues I'm coming across but just shows how important it is to be entirely accurate. I like building and exporting my app so I can see how it builds in real time. Installed and ran my first create-react-app via npm / node. Excited to start using useStates / hooks ahead of this weekends day of shadowing. I will be keen to get stuck in to some code alongs on Youtube now that I feel I am getting a good understanding of the entire picture. I feel I have come quite a long way since Aug last year!
 
 **Link to work:** No work to share but lots of tools used today including [React Dev Tools](https://react.dev/learn/react-developer-tools) and [create-react-app](https://react.dev/learn/start-a-new-react-project#nextjs)
+
+--- 
+
+### Day 21: January 30, 2024
+
+**Today's Progress:** I started to use hooks today within React. Learnt about the useState hook and how it is used to have 'stateful' behaviour which essentially makes a component more powerful and flexible. They can become responsive with the use of useEffect hooks, too. It has been a tough day as the concept is quite intensive and I dont think the course material is too indepth on some feature. particularly around destructuring. I have supplemented my learning by making use of ChatGPT for broad questions and used a YouTube video to help aid my learning.
+
+**Thoughts:** Tomorrow will be a limited day as I am in the office for work and out in the evening. Will make up time on the Codecademy app and/or wathc some more Youtube learning.
+
+**Link to work** Helpful React [video](https://www.youtube.com/watch?v=-yIsQPp31L0&ab_channel=ByteGrad) on 12 common mistakes Junior Devs make
