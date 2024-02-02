@@ -60,7 +60,7 @@
 
 ### Day 6: January 10th, 2024
 
-**Today's Progress:** Learnt about classes in JavaScript and used them on Codecademy to  create a couple of mini projects using Media and Schools. Learnt about inheritance and cemented some further knowledge and understanding of getters and setters.
+**Today's Progress:** Learnt about classes in JavaScript and used them on Codecademy to create a couple of mini projects using Media and Schools. Learnt about inheritance and cemented some further knowledge and understanding of getters and setters.
 
 **Thoughts:** Struggling for time when having to travel to London for the day job! Continuing to utilise the Codecademy app to keep knowledge fresh.
 
@@ -100,7 +100,7 @@
 
 ### Day 10: January 19, 2024
 
-**Today's Progress:** Finished off the first iteration of the terminal game. Added feature such as score, out of bounds check, check if hole and obviously check if player found the hat. 
+**Today's Progress:** Finished off the first iteration of the terminal game. Added feature such as score, out of bounds check, check if hole and obviously check if player found the hat.
 
 **Thoughts:** Keen to progress on with Codecademy's Front End career path. Next up is Testing
 
@@ -110,7 +110,7 @@
 
 ### Day 11: January 20, 2024
 
-**Today's Progress:** Began a dive into testing , focused on TDD (Test Driven Development) and used the 'assert' functionality in node.js to run my own tests against Codecademy's project. Learnt about MochaJS and did some basic programming to help solidify some concepts and pass tests. 
+**Today's Progress:** Began a dive into testing , focused on TDD (Test Driven Development) and used the 'assert' functionality in node.js to run my own tests against Codecademy's project. Learnt about MochaJS and did some basic programming to help solidify some concepts and pass tests.
 
 **Thoughts:** Enjoyable module, looking forward to doing more test cases. Opened my eyes to another segment of day to day programming in the real world. Looking forward to doing some of the challenges on the Codecadmey Pro course.
 
@@ -120,7 +120,7 @@
 
 ### Day 12: January 21, 2024
 
-**Today's Progress:** Continued with the Codecademy Testing unit and finished it off. Created a factorial function that takes a number and returns the factorial. Used TDD methodology to create the program, passed 3 tests where 2 different values were given and then returned an edge case of 0 (which returns 1). Started a module on Asynchronous programming. learnt that JS is a single threaded language but can emulate multi-threaded by using events. 
+**Today's Progress:** Continued with the Codecademy Testing unit and finished it off. Created a factorial function that takes a number and returns the factorial. Used TDD methodology to create the program, passed 3 tests where 2 different values were given and then returned an edge case of 0 (which returns 1). Started a module on Asynchronous programming. learnt that JS is a single threaded language but can emulate multi-threaded by using events.
 
 **Thoughts:** Good module on testing. Found it very helpful and understood why its an important part of programming. Async coding is the next step as this will be really important for making an actual app. Keen to learn about APIs and more.
 
@@ -150,7 +150,7 @@
 
 ### Day 15: January 24, 2024
 
-**Today's Progress:** Continued with the Asynchronous theme and completed a module chapter on JSON objects. Understood how systems GET and POST requests to servers and recieve objects in return detailing various bits of information to the client. Learnt about methods which can then interpret or package to send requests. Also learnt about REST (REpresentational State Transfer) and why that is an important part of building applications, both server and client side. 
+**Today's Progress:** Continued with the Asynchronous theme and completed a module chapter on JSON objects. Understood how systems GET and POST requests to servers and recieve objects in return detailing various bits of information to the client. Learnt about methods which can then interpret or package to send requests. Also learnt about REST (REpresentational State Transfer) and why that is an important part of building applications, both server and client side.
 
 **Thoughts:** Very interesting day, somewhat challenging with fetch() requests but got the hang of it towards the end. Much easier to program with the await async syntax than using .then(). JavaScript has come a long way since I last used it 11 years ago..
 
@@ -206,7 +206,7 @@
 
 **Link to work:** No work to share but lots of tools used today including [React Dev Tools](https://react.dev/learn/react-developer-tools) and [create-react-app](https://react.dev/learn/start-a-new-react-project#nextjs)
 
---- 
+---
 
 ### Day 21: January 30, 2024
 
@@ -215,3 +215,15 @@
 **Thoughts:** Tomorrow will be a limited day as I am in the office for work and out in the evening. Will make up time on the Codecademy app and/or wathc some more Youtube learning.
 
 **Link to work** Helpful React [video](https://www.youtube.com/watch?v=-yIsQPp31L0&ab_channel=ByteGrad) on 12 common mistakes Junior Devs make
+
+---
+
+### Day 22: February 2nd, 2024
+
+**Today's Progress:** Couple days break as had some work and social arrangements but managed to keep up my offline study by continuing through with the Codecademy Go app. Back into swing of things today by completing a small module on React hooks. Starting to feel more comfortable with the useState function. Destructured a big object useState and made several smaller ones - advantages being code becoming more modular which allows seperation of concerns so improved readability, testing, adapation , use etc but somehow feel that using a dataset and accessing through object properties is probably more industry recognised. Not sure- getting conflicting views. Also completed a short 1hr video with Programming with Mosh on TypeScript and React, using some new things like Vite and VSCode shortcuts to make life easier.
+
+**Thoughts:** Nice first taste of TypeScript, can see why it is popular as the editor gives great feedback. It can be a bit daunting if you're not familiar with all the types (like me) but with a YouTuber helping along made it a bit easier. Completed a small project in JS React on Codecademy Pro - A Passing Thought. A small web app that allows the user to input a thought before removing it after 15 seconds.
+
+Looking forward to tomorrows Pair Programming - some friends are gonna show me the ropes on some junior level contract work so will tag along for the ride.
+
+**Link to work:** Link to Mosh's [TS React Intro 1hr](https://www.youtube.com/watch?v=SqcY0GlETPk&t=207s&ab_channel=ProgrammingwithMosh)
