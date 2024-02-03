@@ -227,3 +227,26 @@
 Looking forward to tomorrows Pair Programming - some friends are gonna show me the ropes on some junior level contract work so will tag along for the ride.
 
 **Link to work:** Link to Mosh's [TS React Intro 1hr](https://www.youtube.com/watch?v=SqcY0GlETPk&t=207s&ab_channel=ProgrammingwithMosh)
+
+
+---
+
+### Day 23: February 3rd: 2024
+
+**Today's Progress:** 
+# AM
+Started a project which creates structured emails using [React Emails](). Had some initial issues where couldnt get the dev server to run, used the project github to find issues relating to this and found that we were using an incorrect version of NVM.
+Host updated and reran the server which got us up and running. Small issues loading logo images but we pushed on. Imported tailwind css (first time using) and first use of TypeScript.
+Refactored components into reusable componetns and created a wrapper as an outer content of what all our emails will use.
+Got a button on screen and added some basic text. 
+
+# PM
+Finished off our Wrapper component and began creating our email templates. When piecing together the first email found that some things were placed awkwardly or that we could have an external eg styles sheet that we could import to various components with.
+Once we had our first couple templates up and running we were able to churn through the remaining email templates with relative ease as our wrapper component was well built and flexible for all use cases.
+We reviewed adding in some dark mode options but there are issues with React Emails 2.0 that stop this functionality at the moment, one to look at in the future. 
+
+**Thoughts:**
+Really enjoyable day that I could apply my learning over the last 3 months into. It was more junior than expected and feel that I could do this kind of work quite comfortably with some guidance. It was good to get into Tailwind CSS and learn more about that, by using documentation available things got quicker and quicker.
+Looking forward to any future opportunitys and will keep plugging away at my learning modules.
+
+**Link to work:** No actual content to share as NDA but the 2 librarys/frameworks today were [React Emails](https://react.email/docs/introduction) and [TailwindCSS](https://tailwindcss.com/)
